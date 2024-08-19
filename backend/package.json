@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "author": "Abhay Vachhani",
+  "license": "MIT",
+  "dependencies": {
+    "nanoid": "^5.0.7",
+    "socket.io": "^4.7.5",
+    "@google/generative-ai": "^0.12.0"
+  }
+}
